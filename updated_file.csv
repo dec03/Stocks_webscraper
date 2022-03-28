@@ -1,0 +1,102 @@
+#,Company,Ticker,Weight,Day,Date,Time
+1,Apple Inc,AAPL,12.39,Thursday,Apr 28,4:30 PM ET
+2,Microsoft Corp,MSFT,8.952,Tuesday,Apr 26,4:15 PM ET
+3,Amazon.com Inc,AMZN,8.656,Thursday,Feb 3,4:00 PM ET
+4,Tesla Inc,TSLA,5.204,Wednesday,Apr 27,4:10 PM ET
+5,Facebook Inc,FB,3.458,Wednesday,Feb 2,4:05 PM ET
+6,Alphabet Inc,GOOG,3.286,Tuesday,Feb 1,4:15 PM ET
+7,Alphabet Inc,GOOGL,2.982,Tuesday,Feb 1,4:05 PM ET
+8,NVIDIA Corp,NVDA,2.707,Wednesday,Feb 16,4:20 PM ET
+9,PayPal Holdings Inc,PYPL,2.354,Tuesday,Feb 1,4:15 PM ET
+10,Netflix Inc,NFLX,1.991,Thursday,Apr 21,4:00 PM ET
+11,Intel Corp,INTC,1.852,Wednesday,Apr 27,4:00 PM ET
+12,Adobe Inc,ADBE,1.807,Thursday,Mar 17,8:05 AM ET
+13,Comcast Corp,CMCSA,1.772,Thursday,Apr 28,7:00 AM ET
+14,PepsiCo Inc,PEP,1.527,Thursday,Feb 10,6:00 AM ET
+15,Cisco Systems Inc,CSCO,1.508,Wednesday,Feb 16,4:05 PM ET
+16,Broadcom Inc,AVGO,1.5,Thursday,Mar 10,4:15 PM ET
+17,QUALCOMM Inc,QCOM,1.465,Wednesday,Feb 2,4:00 PM ET
+18,T-Mobile US Inc,TMUS,1.29,Wednesday,Feb 2,4:00 PM ET
+19,Costco Wholesale Corp,COST,1.275,Thursday,Mar 3,4:15 PM ET
+20,Texas Instruments Inc,TXN,1.265,Tuesday,Apr 26,4:00 PM ET
+21,Amgen Inc,AMGN,1.177,Monday,Feb 7,4:00 PM ET
+22,Charter Communications Inc,CHTR,1.031,Friday,Jan 28,7:00 AM ET
+23,Starbucks Corp,SBUX,0.973,Tuesday,Feb 1,4:05 PM ET
+24,Advanced Micro Devices Inc,AMD,0.89,Tuesday,Feb 1,4:15 PM ET
+25,Intuit Inc,INTU,0.785,Thursday,Feb 24,4:00 PM ET
+26,MercadoLibre Inc,MELI,0.78,Monday,Feb 28,4:05 PM ET
+27,Applied Materials Inc,AMAT,0.774,Thursday,Feb 17,4:00 PM ET
+28,Micron Technology Inc,MU,0.73,Monday,Mar 21,4:00 PM ET
+29,Intuitive Surgical Inc,ISRG,0.697,Thursday,Apr 21,4:05 PM ET
+30,Booking Holdings Inc,BKNG,0.675,Wednesday,Feb 23,4:00 PM ET
+31,Gilead Sciences Inc,GILD,0.669,Tuesday,Feb 1,4:00 PM ET
+32,JD.com Inc ADR,JD,0.66,Thursday,Mar 10,4:00 AM ET
+33,Lam Research Corp,LRCX,0.647,Wednesday,Apr 27,4:05 PM ET
+34,Mondelez International Inc,MDLZ,0.641,Thursday,Apr 28,4:05 PM ET
+35,Zoom Video Communications Inc,ZM,0.595,Monday,Feb 28,4:05 PM ET
+36,Activision Blizzard Inc,ATVI,0.582,Thursday,Feb 3,4:05 PM ET
+37,Fiserv Inc,FISV,0.574,Tuesday,Feb 8,7:00 AM ET
+38,Baidu Inc ADR,BIDU,0.557,Wednesday,Feb 16,3:30 AM ET
+39,Automatic Data Processing Inc,ADP,0.554,Wednesday,Apr 27,7:00 AM ET
+40,CSX Corp,CSX,0.534,Thursday,Apr 21,4:00 PM ET
+41,Autodesk Inc,ADSK,0.523,Tuesday,Feb 22,4:00 PM ET
+42,Vertex Pharmaceuticals Inc,VRTX,0.493,Wednesday,Apr 27,4:00 PM ET
+43,Illumina Inc,ILMN,0.473,Thursday,Feb 10,4:05 PM ET
+44,Analog Devices Inc,ADI,0.458,Wednesday,Feb 16,7:00 AM ET
+45,Regeneron Pharmaceuticals Inc,REGN,0.45,Friday,Feb 4,6:30 AM ET
+46,Moderna Inc,MRNA,0.413,Thursday,Feb 24,7:00 AM ET
+47,Pinduoduo Inc ADR,PDD,0.409,Friday,Feb 25,6:35 AM ET
+48,NXP Semiconductors NV,NXPI,0.384,Monday,Jan 31,4:05 PM ET
+49,DocuSign Inc,DOCU,0.377,Thursday,Mar 3,4:05 PM ET
+50,KLA Corp,KLAC,0.376,Thursday,Apr 28,4:05 PM ET
+51,Monster Beverage Corp,MNST,0.371,Thursday,Feb 24,4:10 PM ET
+52,Keurig Dr Pepper Inc,KDP,0.353,Thursday,Feb 24,7:00 AM ET
+53,Lululemon Athletica Inc,LULU,0.345,Thursday,Mar 10,4:05 PM ET
+54,ASML Holding NV,ASML,0.344,Wednesday,Apr 20,1:00 AM ET
+55,Cognizant Technology Solutions Corp,CTSH,0.343,Wednesday,Feb 2,4:00 PM ET
+56,Workday Inc,WDAY,0.338,Thursday,Feb 24,4:00 PM ET
+57,Electronic Arts Inc,EA,0.337,Tuesday,Feb 1,4:00 PM ET
+58,Align Technology Inc,ALGN,0.336,Wednesday,Feb 2,4:00 PM ET
+59,IDEXX Laboratories Inc,IDXX,0.335,Wednesday,Feb 2,6:30 AM ET
+60,Exelon Corp,EXC,0.331,Wednesday,Feb 23,6:50 AM ET
+61,Biogen Inc,BIIB,0.331,Thursday,Feb 3,7:00 AM ET
+62,Walgreens Boots Alliance Inc,WBA,0.328,Thursday,Apr 7,7:00 AM ET
+63,Synopsys Inc,SNPS,0.327,Wednesday,Mar 2,4:05 PM ET
+64,Peloton Interactive Inc,PTON,0.325,Tuesday,Feb 8,4:05 PM ET
+65,American Electric Power Co Inc,AEP,0.325,Thursday,Feb 24,6:55 AM ET
+66,Ross Stores Inc,ROST,0.322,Tuesday,Mar 1,4:00 PM ET
+67,Kraft Heinz Co/The,KHC,0.321,Wednesday,Feb 16,7:00 AM ET
+68,Marriott International Inc/MD,MAR,0.318,Tuesday,Feb 15,7:00 AM ET
+69,Microchip Technology Inc,MCHP,0.312,Thursday,Feb 3,4:15 PM ET
+70,eBay Inc,EBAY,0.31,Wednesday,Feb 23,4:05 PM ET
+71,Cadence Design Systems Inc,CDNS,0.306,Tuesday,Feb 22,4:05 PM ET
+72,NetEase Inc ADR,NTES,0.305,Thursday,Feb 24,3:30 AM ET
+73,Match Group Inc,MTCH,0.299,Tuesday,Feb 1,4:10 PM ET
+74,DexCom Inc,DXCM,0.283,Thursday,Feb 10,4:00 PM ET
+75,Marvell Technology Group Ltd,MRVL,0.281,Thursday,Mar 3,4:05 PM ET
+76,Xilinx Inc,XLNX,0.279,Wednesday,Apr 27,4:20 PM ET
+,,,,Thursday,Apr 28,4:30 PM ET
+78,PACCAR Inc,PCAR,0.273,Tuesday,Apr 26,8:00 AM ET
+79,Xcel Energy Inc,XEL,0.271,Thursday,Apr 28,6:00 AM ET
+80,Cintas Corp,CTAS,0.271,Wednesday,Mar 23,8:30 AM ET
+81,O'Reilly Automotive Inc,ORLY,0.264,Wednesday,Feb 9,4:30 PM ET
+82,Seagen Inc,SGEN,0.263,Wednesday,Feb 9,4:00 PM ET
+83,ANSYS Inc,ANSS,0.257,Wednesday,Feb 23,4:30 PM ET
+84,Okta Inc,OKTA,0.253,Wednesday,Mar 2,4:00 PM ET
+85,Verisk Analytics Inc,VRSK,0.25,Tuesday,Feb 22,4:10 PM ET
+86,Paychex Inc,PAYX,0.249,Wednesday,Mar 23,8:30 AM ET
+87,Atlassian Corp PLC,TEAM,0.248,Thursday,Apr 28,4:05 PM ET
+88,Splunk Inc,SPLK,0.219,Wednesday,Mar 2,4:00 PM ET
+89,Fastenal Co,FAST,0.218,Wednesday,Apr 20,6:50 AM ET
+90,Copart Inc,CPRT,0.216,Thursday,Feb 17,4:45 PM ET
+91,Skyworks Solutions Inc,SWKS,0.214,Thursday,Feb 3,4:00 PM ET
+92,Dollar Tree Inc,DLTR,0.202,Tuesday,Feb 22,7:30 AM ET
+93,Sirius XM Holdings Inc,SIRI,0.202,Tuesday,Feb 1,7:00 AM ET
+95,Cerner Corp,CERN,0.195,Wednesday,Feb 9,7:30 AM ET
+96,VeriSign Inc,VRSN,0.177,Thursday,Feb 10,4:05 PM ET
+97,Incyte Corp,INCY,0.171,Tuesday,Feb 8,7:00 AM ET
+98,CDW Corp/DE,CDW,0.154,Wednesday,Feb 9,7:00 AM ET
+99,Check Point Software Technologies Ltd,CHKP,0.145,Thursday,Feb 3,5:00 AM ET
+100,Trip.com Group Ltd ADR,TCOM,0.14,Wednesday,Mar 16,5:00 PM ET
+101,Fox Corp,FOXA,0.081,Tuesday,Feb 15,After the close
+102,Fox Corp,FOX,0.06,Wednesday,Feb 9,8:00 AM ET
